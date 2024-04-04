@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee15716c-451f-41e0-b56c-73183c767989" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DeepLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_unit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,22 +96,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1364" height="228" key="GridCell.Tab.0.bottom" timestamp="1711004091723">
-      <screen x="50" y="25" width="1390" height="875" />
+    <state width="1364" height="228" key="GridCell.Tab.0.bottom" timestamp="1711072817328">
+      <screen x="49" y="25" width="1391" height="875" />
     </state>
-    <state width="1364" height="228" key="GridCell.Tab.0.bottom/50.25.1390.875@50.25.1390.875" timestamp="1711004091723" />
-    <state width="1364" height="228" key="GridCell.Tab.0.center" timestamp="1711004091722">
-      <screen x="50" y="25" width="1390" height="875" />
+    <state width="1364" height="228" key="GridCell.Tab.0.bottom/49.25.1391.875@49.25.1391.875" timestamp="1711072817328" />
+    <state width="1364" height="228" key="GridCell.Tab.0.bottom/50.25.1390.875@50.25.1390.875" timestamp="1711004181979" />
+    <state width="1364" height="228" key="GridCell.Tab.0.center" timestamp="1711072817327">
+      <screen x="49" y="25" width="1391" height="875" />
     </state>
-    <state width="1364" height="228" key="GridCell.Tab.0.center/50.25.1390.875@50.25.1390.875" timestamp="1711004091722" />
-    <state width="1364" height="228" key="GridCell.Tab.0.left" timestamp="1711004091722">
-      <screen x="50" y="25" width="1390" height="875" />
+    <state width="1364" height="228" key="GridCell.Tab.0.center/49.25.1391.875@49.25.1391.875" timestamp="1711072817327" />
+    <state width="1364" height="228" key="GridCell.Tab.0.center/50.25.1390.875@50.25.1390.875" timestamp="1711004181978" />
+    <state width="1364" height="228" key="GridCell.Tab.0.left" timestamp="1711072817325">
+      <screen x="49" y="25" width="1391" height="875" />
     </state>
-    <state width="1364" height="228" key="GridCell.Tab.0.left/50.25.1390.875@50.25.1390.875" timestamp="1711004091722" />
-    <state width="1364" height="228" key="GridCell.Tab.0.right" timestamp="1711004091723">
-      <screen x="50" y="25" width="1390" height="875" />
+    <state width="1364" height="228" key="GridCell.Tab.0.left/49.25.1391.875@49.25.1391.875" timestamp="1711072817325" />
+    <state width="1364" height="228" key="GridCell.Tab.0.left/50.25.1390.875@50.25.1390.875" timestamp="1711004181977" />
+    <state width="1364" height="228" key="GridCell.Tab.0.right" timestamp="1711072817327">
+      <screen x="49" y="25" width="1391" height="875" />
     </state>
-    <state width="1364" height="228" key="GridCell.Tab.0.right/50.25.1390.875@50.25.1390.875" timestamp="1711004091723" />
+    <state width="1364" height="228" key="GridCell.Tab.0.right/49.25.1391.875@49.25.1391.875" timestamp="1711072817327" />
+    <state width="1364" height="228" key="GridCell.Tab.0.right/50.25.1390.875@50.25.1390.875" timestamp="1711004181978" />
     <state x="425" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1710939682261">
       <screen x="50" y="25" width="1390" height="875" />
     </state>
